@@ -1,0 +1,22 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+
