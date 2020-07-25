@@ -20,7 +20,7 @@ export default () => {
         }
     }, [])
 
-    const minusOne = (e) => {
+    const minusOne = () => {
         console.log('count', count)
         const updatedValue = count - 1
         console.log('updatedValue', updatedValue)
